@@ -1,0 +1,2 @@
+include ':mapwize-ui'
+project(':mapwize-ui').projectDir = new File('android/mapwize-ui')

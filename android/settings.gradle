@@ -1,0 +1,3 @@
+rootProject.name = 'mapwize_navigation'
+include ':mapwize-ui'
+project(':mapwize-ui').projectDir = new File(settingsDir, '../../mapwize-ui')

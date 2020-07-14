@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mapwize_navigation.iml" filepath="$PROJECT_DIR$/mapwize_navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/mapwize_navigation_android.iml" filepath="$PROJECT_DIR$/android/mapwize_navigation_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/mapwize_navigation_example_android.iml" filepath="$PROJECT_DIR$/example/android/mapwize_navigation_example_android.iml" />
+    </modules>
+  </component>
+</project>
